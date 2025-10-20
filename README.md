@@ -1,6 +1,6 @@
 ---Part A Supervised Learning----
 
-1. explore.ipynb: Download data, preprocess data, training models, finetune
+1. explore.ipynb: Download data, preprocess data, training models, finetune. All data can be accessed, downloaded, and preprocessed by the method in this notebook. The api access is free.
 2. model_test.ipynb: Build evaluation data, evaluation pipeline, investment simulation, result analysis, graph generations.
 
 ---Part B Unsupervised Learning----
