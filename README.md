@@ -7,7 +7,7 @@
 
 1. file (PartB_Unsupervised_PRICE.ipynb): Data Manipulation, Clustering, PCA, UMAP Visualisation
 
-The dataset used in this project includes the following financial and statistical features:
+The dataset used in this Part B Unsupervised Learning includes the following financial and statistical features:
 
 | Feature | Description |
 |----------|-------------|
